@@ -1,0 +1,34 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+  viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+  <!-- Main chip body -->
+  <path d="M112,96h288c13.25,0,24,10.75,24,24v272c0,13.25-10.75,24-24,24H112c-13.25,0-24-10.75-24-24V120
+    C88,106.75,98.75,96,112,96z"/>
+
+  <!-- Top pins -->
+  <rect x="128" y="52" width="28" height="60" rx="6"/>
+  <rect x="180" y="52" width="28" height="60" rx="6"/>
+  <rect x="242" y="52" width="28" height="60" rx="6"/>
+  <rect x="304" y="52" width="28" height="60" rx="6"/>
+  <rect x="356" y="52" width="28" height="60" rx="6"/>
+
+  <!-- Bottom pins -->
+  <rect x="128" y="400" width="28" height="60" rx="6"/>
+  <rect x="180" y="400" width="28" height="60" rx="6"/>
+  <rect x="242" y="400" width="28" height="60" rx="6"/>
+  <rect x="304" y="400" width="28" height="60" rx="6"/>
+  <rect x="356" y="400" width="28" height="60" rx="6"/>
+
+  <!-- Left pins -->
+  <rect x="44" y="148" width="60" height="28" rx="6"/>
+  <rect x="44" y="210" width="60" height="28" rx="6"/>
+  <rect x="44" y="272" width="60" height="28" rx="6"/>
+  <rect x="44" y="334" width="60" height="28" rx="6"/>
+
+  <!-- Right pins -->
+  <rect x="408" y="148" width="60" height="28" rx="6"/>
+  <rect x="408" y="210" width="60" height="28" rx="6"/>
+  <rect x="408" y="272" width="60" height="28" rx="6"/>
+  <rect x="408" y="334" width="60" height="28" rx="6"/>
+</g>
+</svg>
